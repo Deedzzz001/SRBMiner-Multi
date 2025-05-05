@@ -1,0 +1,5 @@
+Starting command: 
+C:\Users\micha\OneDrive\New Folder\SRBMiner-MULTI.exe --pool stratum+ssl://autolykos.unminable.com:4444 --wallet DOGE:DEgL4AWhM1DfK2JMzNzAaCEVhC3WDedDzJ.unmineable_miner_jcnpauci#edi9-nc51 --disable-cpu --api-enable --api-port 60130 --disable-worker-watchdog --gpu-sensors-disable --extended-log --algorithm autolykos2
+Detecting GPU devices...
+
+No suitable GPU devices found
